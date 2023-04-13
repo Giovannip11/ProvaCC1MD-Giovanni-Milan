@@ -1,0 +1,111 @@
+.A1 {
+    list-style: none;
+    display: inline;
+
+
+}
+
+.A1 li {
+    display: inline-block;
+    margin-left: 10px;
+
+}
+
+nav {
+    text-align: right;
+    font-size: larger;
+
+}
+
+nav .A1 {
+    border: 5px solid #000;
+    border-color: blue;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+
+
+}
+
+.A1:hover {
+    color: red;
+}
+
+* {
+    background-color: aqua;
+}
+
+.cont1 {
+    text-align: left;
+
+}
+
+.cont1 img {
+    height: 100px;
+
+}
+
+.A2 {
+    display: flex width: 100px;
+    margin-left: 10px;
+    padding: 10px;
+    border: 1px solid cyan;
+    text-align: left;
+}
+
+div {
+    font-size: larger;
+}
+
+h2 {
+    text-align: center;
+
+}
+
+.sla .cont2 {
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+li img {
+    height: 50px;
+    width: 50px;
+}
+
+h3 {
+    text-align: right;
+    font-size: larger;
+
+}
+
+.div4 {
+    position: relative;
+    width: 300px;
+    height: 200px;
+    background-color: aqua;
+    color: #000;
+}
+
+.dele {}
+
+.gg {
+    text-align: center;
+}
+
+.botao {
+    position: absolute;
+
+    bottom: 0;
+
+    left: 0;
+
+    margin: 10px;
+
+    width: 200px;
+
+    height: 100px;
+
+    font-size: 16px;
+
+}
